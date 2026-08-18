@@ -1,3 +1,8 @@
-./script.ipynb
-./thumbnails/
-./venv/
+script.ipynb
+thumbnails/
+venv/
+.vscode/
+.DS_STORE
+__pycache__/
+CLAUDE.md
+auditor-brief.md
